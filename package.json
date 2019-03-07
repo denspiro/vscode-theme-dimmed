@@ -1,0 +1,21 @@
+{
+    "name": "dimmed",
+    "displayName": "Dimmed",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dimmed",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dimmed-color-theme.json"
+            }
+        ]
+    }
+}
