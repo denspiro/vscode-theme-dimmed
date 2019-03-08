@@ -253,6 +253,12 @@
       }
     },
     {
+      "scope": "punctuation.definition.string.template",
+      "settings": {
+        "foreground": "#ffffffbb"
+      }
+    },
+    {
       "scope": [
         "constant",
         "support.constant",
@@ -415,7 +421,7 @@
     {
       "scope": "keyword",
       "settings": {
-        "foreground": "#ffffffbb"
+        "foreground": "#ffffff35"
       }
     },
     {
@@ -528,10 +534,11 @@
       "scope": [
         "storage.type.function",
         "entity.function",
-        "entity.name.function.static"
+        "entity.name.function.static",
+        "meta.delimiter"
       ],
       "settings": {
-        "foreground": "#ffffffbb"
+        "foreground": "#ffffff35"
       }
     },
     {
@@ -557,7 +564,7 @@
       }
     },
     {
-      "scope": "brace, meta.brace.round, meta.brace.square",
+      "scope": "brace, meta.brace.round, meta.brace.square, meta.brace.curly",
       "settings": {
         "foreground": "#ffffff35"
       }
@@ -725,13 +732,16 @@
     {
       "scope": "keyword.control.directive",
       "settings": {
-        "foreground": "#8ec07c"
+        "foreground": "#ffffff35"
       }
     },
     {
-      "scope": "support.function.C99",
+      "scope": [
+                "support.function.C99 ",
+                "keyword.control.c"
+      ],
       "settings": {
-        "foreground": "#fabd2f"
+        "foreground": "#ffffffbb"
       }
     },
     // MAKEFILE ----------------------------------------
@@ -1013,6 +1023,14 @@
       ],
       "settings": {
         "foreground": "#ffffff35"
+      }
+    },
+    {
+      "scope": [
+        "support.type.object"
+      ],
+      "settings": {
+        "foreground": "#ffffffbb"
       }
     },
     // typescript ---------------------------------------
