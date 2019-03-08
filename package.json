@@ -14,7 +14,7 @@
             {
                 "label": "Dimmed",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Dimmed-color-theme.json"
+                "path": "./themes/dimmed-color-theme.json"
             }
         ]
     }
