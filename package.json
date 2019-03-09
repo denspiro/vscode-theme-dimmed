@@ -1,14 +1,24 @@
 {
     "name": "dimmed",
     "displayName": "Dimmed",
-    "description": "",
+    "description": "Dimmed theme is a experimental dimming syntax color scheme and minimal theme for VSCode",
     "version": "0.0.1",
+    "author": "Shoizz (https://github.com/Shoizz)",
     "engines": {
         "vscode": "^1.31.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Shoizz/vscode-theme-dimmed"
     },
     "categories": [
         "Themes"
     ],
+    "galleryBanner": {
+      "color": "#1d2021",
+      "theme": "dark"
+    },
+    "homepage": "https://github.com/Shoizz/vscode-theme-dimmed",
     "contributes": {
         "themes": [
             {
