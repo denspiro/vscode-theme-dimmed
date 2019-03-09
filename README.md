@@ -2,8 +2,7 @@
 
 Dimmed theme is a experimental dimming syntax color scheme and minimal theme for VSCode
 
-![Dimmed](images/dimmed-animation.gif)
-
+![dimmed-screenshot](images/dimmed-screenshot.png)
 
 ## Features
 
@@ -17,16 +16,18 @@ Dimmed theme is a experimental dimming syntax color scheme and minimal theme for
 
 ## What is dimmed syntax
 
+![dimmed-animation](images/dimmed-animation.gif)
+
 Some elements of the code that can add visual noise are colored less bright than context meaningful parts because additional colors add additional cognitive work to process it. With dimmed syntax, just two shades of gray are used + one additional shade for comments.
 
 ## Inspiration
 
-* https://github.com/jdinhify/vscode-theme-gruvbox
+* [vscode-theme-gruvbox](https://github.com/jdinhify/vscode-theme-gruvbox)
  Guys doing there great job by maintaining high quality theme which I decided to use as starting point and learn from it. Thanks a lot!
 
-* https://github.com/fxn/vim-monochrome
+* [vim-monochrome](https://github.com/fxn/vim-monochrome)
 
-* https://github.com/arthurwhite/white-theme-vscode
+* [white-theme-vscode](https://github.com/arthurwhite/white-theme-vscode)
 
 ## TODO
 
