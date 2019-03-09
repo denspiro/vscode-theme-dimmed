@@ -2,6 +2,9 @@
 
 Dimmed theme is a experimental dimming syntax color scheme and minimal theme for VSCode
 
+![Dimmed](images/dimmed-animation.gif)
+
+
 ## Features
 
 * Decreasing cognitive load by minimizing colors usage to highlight a code syntax
