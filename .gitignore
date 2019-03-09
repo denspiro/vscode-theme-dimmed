@@ -1,2 +1,3 @@
 #ignore *.vsix from vsce
 *.vsix
+!.vscode
