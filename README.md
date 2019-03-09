@@ -1,4 +1,4 @@
-# Dimmed
+![Dimmed](images/dimmed.png)
 
 Dimmed theme is a experimental dimming syntax color scheme and minimal theme for VSCode
 
@@ -10,13 +10,13 @@ Dimmed theme is a experimental dimming syntax color scheme and minimal theme for
 
 * Contrast but eye-friendly
 
-* Most popular languages are supported: Javascript, Typescript, HTML, CSS, Go, C, C++, Java, Python
+* Supported: Javascript, Typescript, HTML, CSS, Go, C, C++, Java, Python
 
 ## What is dimmed syntax
 
-Some elements of the code that can add visual noise are colored less brighter than context meaningfull parts of the code, because additional colors adds additional cognitive work to process it. With dimmed syntax just four shades of gray are used.
+Some elements of the code that can add visual noise are colored less bright than context meaningful parts because additional colors add additional cognitive work to process it. With dimmed syntax, just two shades of gray are used + one additional shade for comments.
 
-## Thankyous
+## Inspiration
 
 * https://github.com/jdinhify/vscode-theme-gruvbox
  Guys doing there great job by maintaining high quality theme which I decided to use as starting point and learn from it. Thanks a lot!
