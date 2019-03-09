@@ -18,12 +18,12 @@ Dimmed theme is a experimental dimming syntax color scheme and minimal theme for
 
 ![dimmed-animation](images/dimmed-animation.gif)
 
-Some elements of the code that can add visual noise are colored less bright than context meaningful parts because additional colors add additional cognitive work to process it. With dimmed syntax, just two shades of gray are used + one additional shade for comments.
+Some elements of the code that can add visual noise are colored less bright than context meaningful parts because additional colors add additional cognitive work to process it. With dimmed syntax, just two shades of gray are used + one additional shade for comments and unused instances.
 
 ## Inspiration
 
-* [vscode-theme-gruvbox](https://github.com/jdinhify/vscode-theme-gruvbox)
- Guys doing there great job by maintaining high quality theme which I decided to use as starting point and learn from it. Thanks a lot!
+* [vscode-theme-gruvbox](https://github.com/jdinhify/vscode-theme-gruvbox)\
+ Guys doing there great job by maintaining high quality theme which I decided to use as starting point and learn from it.
 
 * [vim-monochrome](https://github.com/fxn/vim-monochrome)
 
@@ -31,5 +31,6 @@ Some elements of the code that can add visual noise are colored less bright than
 
 ## TODO
 
-* Even more eye-friendly theme version with gruvbox main colors
+* Even more eye-friendly theme version with [gruvbox](https://github.com/morhetz/gruvbox) main text color
 * White version
+* VIM theme
