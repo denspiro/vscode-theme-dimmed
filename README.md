@@ -12,7 +12,7 @@ Dimmed theme is a experimental dimming syntax color scheme and minimal theme for
 
 * Contrast but eye-friendly
 
-* Supported: Javascript, Typescript, HTML, CSS, Go, C, C++, Java, Python
+* Supported: Javascript, Typescript, HTML, CSS, Go, C, C++, Java, Python (probably some other languages as well)
 
 ## What is dimmed syntax
 
@@ -31,6 +31,5 @@ Some elements of the code that can add visual noise are colored less bright than
 
 ## TODO
 
-* Even more eye-friendly theme version with [gruvbox](https://github.com/morhetz/gruvbox) main text color
+* Even more eye-friendly sepia version aka [gruvbox](https://github.com/morhetz/gruvbox)
 * White version
-* VIM theme
