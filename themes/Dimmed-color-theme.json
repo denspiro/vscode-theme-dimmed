@@ -186,8 +186,8 @@
      "terminal.ansiCyan": "#00e676",
      "terminal.ansiBrightCyan": "#8ec07c",
      "terminal.ansiWhite": "#a89984",
-     "terminal.ansiBrightWhite": "#b6c1c5",
-     "terminal.foreground": "#b6c1c5",
+     "terminal.ansiBrightWhite": "#c2c3c3",
+     "terminal.foreground": "#c2c3c3",
      "terminal.background": "#1d2021",
      // TITLE BAR macOS (not tested)
      "titleBar.activeBackground": "#1d2021",

@@ -1,4 +1,4 @@
-![Dimmed](images/dimmed.png)
+![Dimmed](images/dimmed-banner.png)
 
 Dimmed theme is a experimental dimming syntax color scheme and minimal theme for VSCode
 
