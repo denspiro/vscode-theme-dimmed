@@ -1,38 +1,46 @@
 {
-    "name": "dimmed",
-    "displayName": "Dimmed",
-    "description": "Dimmed theme is a experimental dimming syntax color scheme and minimal theme for VSCode",
-    "version": "0.0.3",
-    "author": "Shoizz (https://github.com/Shoizz)",
-    "publisher": "Shoizz",
-    "engines": {
-        "vscode": "^1.31.0"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Shoizz/vscode-theme-dimmed"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "icon": "images/icon.png",
-    "galleryBanner": {
-      "color": "#1d2021",
-      "theme": "dark"
-    },
-    "homepage": "https://github.com/Shoizz/vscode-theme-dimmed",
-    "contributes": {
-        "themes": [
-            {
-                "label": "Dimmed Cold",
-                "uiTheme": "vs-dark",
-                "path": "./themes/dimmed-cold-color-theme.json"
-            },
-            {
-              "label": "Dimmed Sepia",
-              "uiTheme": "vs-dark",
-              "path": "./themes/dimmed-sepia-color-theme.json"
-          }
-        ]
-    }
+  "name": "dimmed",
+  "displayName": "Dimmed",
+  "description": "Dimmed theme is a experimental dimming syntax color scheme and minimal theme for VSCode",
+  "version": "0.0.3",
+  "author": "Shoizz (https://github.com/Shoizz)",
+  "publisher": "Shoizz",
+  "engines": {
+    "vscode": "^1.31.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shoizz/vscode-theme-dimmed.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#1d2021",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/Shoizz/vscode-theme-dimmed",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dimmed Cold",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dimmed-cold-color-theme.json"
+      },
+      {
+        "label": "Dimmed Sepia",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dimmed-sepia-color-theme.json"
+      }
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/Shoizz/vscode-theme-dimmed/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
 }
